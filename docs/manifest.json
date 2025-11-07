@@ -1,0 +1,21 @@
+{
+  "name": "Aplikasi Berbagi Cerita",
+  "short_name": "CeritaApp",
+  "description": "Progressive Web App untuk berbagi cerita dan lokasi secara real-time.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a90e2",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "40x40",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
